@@ -1,4 +1,4 @@
-# test
+# 此文件有格式
 test only
 textport.py
 通过写text文件(1w.txt)，构建了一种一对多数据存储的简单实现
